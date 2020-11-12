@@ -1,0 +1,14 @@
+Morgen Freitag:
+
+- Entity Framework
+ - DB First mit .NET 4.8
+
+ - Code First + Code First Reverse mit 5.0 .NET oder 3.1 .NET Core
+
+
+- WebAPI -> Service-Methoden anbieten
+	- WebAPI wird aus einer WinForm Anwendung aufgerufen. 
+
+
+- grpc als alternative. 
+

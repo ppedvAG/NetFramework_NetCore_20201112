@@ -1,0 +1,14 @@
+.NET 5 Neuerungen:
+
+WinForms:
+https://www.nuget.org/packages/Microsoft.Web.WebView2
+
+Portungen von .NET Framework auf .NET Core 3.1 (Vorgängerversion von .NET 5)
+
+Portability Analyzer (aktuell bis .NET 3.1)
+https://docs.microsoft.com/de-de/dotnet/standard/analyzers/portability-analyzer
+
+
+
+
+

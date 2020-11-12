@@ -1,0 +1,9 @@
+Verwendung von .NET 5
+
+Voraussetzung:
+
+.NET 5 SDK -> https://dotnet.microsoft.com/download/dotnet/5.0
+Visual Studio -> Help -> Check for Updates -> ab 16.8 
+
+WinForm Migration auf .NET 5
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/migration/?view=netdesktop-5.0

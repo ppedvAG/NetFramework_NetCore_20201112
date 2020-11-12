@@ -1,0 +1,25 @@
+SQL Server von Microsof
+LocalDB
+Microsoft SQL Server (local oder Azure)
+Compact SQL Server 4.0 (support läuft aus)
+
+
+Tools zum editieren von DB
+- Visual Studio -> View -> SQL Server Explorer
+
+
+- Management Studio
+https://docs.microsoft.com/de-de/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
+
+
+
+
+Project Sample:
+ADO.NET mit .NET 5 -> Einfache SQL Abfrage
+
+
+
+
+
+
