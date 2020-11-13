@@ -20,6 +20,19 @@ ADO.NET mit .NET 5 -> Einfache SQL Abfrage
 
 
 
+Entity Framework:
+Beispiel1:  DatabaseFirst -> .NET Framework 4.8  (DB First wurde in .NET Core + .NET 5 herausgenommen)
+
+Consolen-Befehle: 
+//Anlegen des C# Update/Downgrate-Script
+1.)	Add-Migration [NameDerVersion] -> Add-Migration Version1 [ENTER]
+
+//Übertragung und Rollout an der Datenbank
+2.) Update-Database [ENTER] 
+
+
+
+
 
 
 

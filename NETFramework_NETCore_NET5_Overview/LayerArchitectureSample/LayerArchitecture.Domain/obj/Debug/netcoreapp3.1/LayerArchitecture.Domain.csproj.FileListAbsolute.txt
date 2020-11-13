@@ -1,0 +1,9 @@
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\bin\Debug\netcoreapp3.1\LayerArchitecture.Domain.deps.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\bin\Debug\netcoreapp3.1\LayerArchitecture.Domain.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\bin\Debug\netcoreapp3.1\LayerArchitecture.Domain.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\obj\Debug\netcoreapp3.1\LayerArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\obj\Debug\netcoreapp3.1\LayerArchitecture.Domain.AssemblyInfo.cs
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\obj\Debug\netcoreapp3.1\LayerArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\obj\Debug\netcoreapp3.1\LayerArchitecture.Domain.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\obj\Debug\netcoreapp3.1\LayerArchitecture.Domain.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\Abschlussarbeit\LayerArchitectureSample\LayerArchitecture.Domain\obj\Debug\netcoreapp3.1\LayerArchitecture.Domain.csprojAssemblyReference.cache

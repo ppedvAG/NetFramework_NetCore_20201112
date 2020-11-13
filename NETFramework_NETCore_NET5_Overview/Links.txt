@@ -11,4 +11,16 @@ https://docs.microsoft.com/de-de/dotnet/standard/analyzers/portability-analyzer
 
 
 
+Entity Framework Online-Kurs:
+
+https://www.entityframeworktutorial.net/
+
+https://www.learnentityframeworkcore.com/
+
+
+
+
+
+
+
 

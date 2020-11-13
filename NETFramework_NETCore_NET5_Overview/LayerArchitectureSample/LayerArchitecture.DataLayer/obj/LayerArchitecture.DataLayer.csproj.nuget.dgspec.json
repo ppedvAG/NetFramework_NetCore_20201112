@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj",
+        "projectName": "EFRepository",
+        "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj",
+        "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
+        "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KW4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {
+                "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj",
+        "projectName": "GenericGepositorySample",
+        "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj",
+        "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
+        "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KW4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj",
+        "projectName": "LayerArchitecture.DataLayer",
+        "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
+        "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KW4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj": {
+                "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj"
+              },
+              "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {
+                "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj"
+              },
+              "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj",
+        "projectName": "LayerArchitecture.Domain",
+        "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
+        "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KW4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
