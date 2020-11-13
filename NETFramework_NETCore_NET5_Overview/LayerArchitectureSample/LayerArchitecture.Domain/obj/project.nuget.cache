@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XPSrPjqDmduo2dpjuS1wyxXlTDHMfGMbyVU7b7IGwag8ZVTymMfEkbhbzXFkx5ULcDp+OceScwZPghSLdvcijA==",
+  "dgSpecHash": "Wa4REa3nYmjXM1jFedmCcVuDRkTzmdALwEWnAmkYLsAutxRiseP22zLUgmB3g/896bNiGEqOut+cXLxf+7/rDw==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

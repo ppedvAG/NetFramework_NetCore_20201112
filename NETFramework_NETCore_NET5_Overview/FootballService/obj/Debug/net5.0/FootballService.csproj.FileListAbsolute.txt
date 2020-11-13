@@ -147,3 +147,9 @@ C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overvi
 C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\obj\Debug\net5.0\ref\FootballService.dll
 C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\obj\Debug\net5.0\FootballService.pdb
 C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\obj\Debug\net5.0\FootballService.genruntimeconfig.cache
+C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\bin\Debug\net5.0\FootballService.xml
+C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aktueller Kurs\NetFramework_NetCore_20201112\NETFramework_NETCore_NET5_Overview\FootballService\obj\Debug\net5.0\FootballService.MvcApplicationPartsAssemblyInfo.cs

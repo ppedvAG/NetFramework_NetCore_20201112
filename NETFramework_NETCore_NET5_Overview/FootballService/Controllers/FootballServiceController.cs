@@ -22,6 +22,11 @@ namespace FootballService.Controllers
         }
 
         // GET: api/FootballService
+
+        /// <summary>
+        /// Beschreibung der WebAPI Methode
+        /// </summary>
+        /// <returns>Es wird ein JSON zurück gegeben</returns>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<FootballClub>>> GetFootballClubs()
         {

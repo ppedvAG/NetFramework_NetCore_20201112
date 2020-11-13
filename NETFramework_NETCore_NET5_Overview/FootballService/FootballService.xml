@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FootballService</name>
+    </assembly>
+    <members>
+        <member name="M:FootballService.Controllers.FootballServiceController.GetFootballClubs">
+            <summary>
+            Beschreibung der WebAPI Methode
+            </summary>
+            <returns>Es wird ein JSON zurück gegeben</returns>
+        </member>
+    </members>
+</doc>

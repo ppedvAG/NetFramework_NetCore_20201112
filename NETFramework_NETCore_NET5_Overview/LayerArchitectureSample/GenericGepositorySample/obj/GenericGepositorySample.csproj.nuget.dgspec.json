@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {}
+    "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {
+    "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj",
+        "projectUniqueName": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj",
         "projectName": "GenericGepositorySample",
-        "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj",
+        "projectPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\obj\\",
+        "outputPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\GenericGepositorySample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

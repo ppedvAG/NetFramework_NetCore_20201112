@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hEqaiAYlIoJvXA3eMZNs0dvCOqPZRamDh/su1AMW2PdbJdcWTPC3pdSK3NjRR7M7U6alAHzwx6aSm3siCa6p9g==",
+  "dgSpecHash": "30LulhsnYwhrutjxWKG/yoidvDNr5yNnbqREfJ+alkKi+tPGmwYQ8pZ3ASg66HqAI4svhcAjtH1jdKf26TxyqA==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.ServiceLayer\\LayerArchitecture.ServiceLayer.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\LayerArchitecture.ServiceLayer\\LayerArchitecture.ServiceLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

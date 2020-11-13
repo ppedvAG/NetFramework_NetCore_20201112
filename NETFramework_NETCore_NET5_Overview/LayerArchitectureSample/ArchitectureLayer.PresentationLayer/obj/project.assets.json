@@ -8900,11 +8900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\ArchitectureLayer.PresentationLayer\\ArchitectureLayer.PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\ArchitectureLayer.PresentationLayer\\ArchitectureLayer.PresentationLayer.csproj",
       "projectName": "ArchitectureLayer.PresentationLayer",
-      "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\ArchitectureLayer.PresentationLayer\\ArchitectureLayer.PresentationLayer.csproj",
+      "projectPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\ArchitectureLayer.PresentationLayer\\ArchitectureLayer.PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\ArchitectureLayer.PresentationLayer\\obj\\",
+      "outputPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\ArchitectureLayer.PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8924,12 +8924,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj": {
-              "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj"
+            "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj"
             },
-            "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj": {
-              "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj"
+            "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\LayerArchitecture.Domain\\LayerArchitecture.Domain.csproj"
             }
           }
         }
@@ -8942,6 +8943,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -8990,7 +8992,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

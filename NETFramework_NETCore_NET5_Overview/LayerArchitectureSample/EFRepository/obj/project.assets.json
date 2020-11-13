@@ -660,11 +660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj",
       "projectName": "EFRepository",
-      "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj",
+      "projectPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj",
       "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\obj\\",
+      "outputPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\EFRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -684,9 +684,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {
-              "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj"
+            "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj"
             }
           }
         }
@@ -699,6 +700,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -720,7 +722,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

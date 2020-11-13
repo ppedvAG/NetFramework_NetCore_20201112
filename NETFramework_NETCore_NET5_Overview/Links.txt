@@ -19,6 +19,26 @@ https://www.learnentityframeworkcore.com/
 
 
 
+https://docs.microsoft.com/de-de/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-5.0&tabs=visual-studio
+
+
+https://code-maze.com/hateoas-aspnet-core-web-api/
+
+
+WEB API Architekturen:
+https://github.com/CodeMazeBlog/advanced-rest-concepts-aspnetcore/tree/hateoas-end
+
+https://code-maze.com/data-shaping-aspnet-core-webapi/
+
+
+https://code-maze.com/
+
+
+
+Linq
+https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/
+
+https://linqsamples.com/linq-to-objects/partitioning
 
 
 

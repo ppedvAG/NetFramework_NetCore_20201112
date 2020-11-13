@@ -20,6 +20,8 @@ namespace CodeFirstSample_With_MVC.Controllers
 
         public IActionResult Index()
         {
+            //Berechnungen 
+            //usw 
             return View();
         }
 

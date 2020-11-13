@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "swvPGAAPieMl1JiQj0H6t9by01orpuqPFYBG984vImINEKDFvqon58HggQvlRIJv5zofD7UBcQwHLePNgtearA==",
+  "dgSpecHash": "MARNbYx+70rMy7GlSuMlgOoE8quAuAZ3WEIZcLhzJ95sZARPpWu4yOIQFfmclfpDI9Jzuolh9VoWuquu6UWTxA==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\EFRepository\\EFRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xd3GH8CooQswSIeQ0Q8OWQnpApByU6brbz9yKq1ZFqWf66/T1TQS2yK/GC7IYZQbZ0Sp+fNgwLPcyXk5DGlqnA==",
+  "dgSpecHash": "JAj973xiD16QtBFnZrHIz39PeUzLAfsLDRhwdIc2A8Wn+yNiL8I8NuaN2FwF99q0n9/bPleXqCY+r0JrZkHLmQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\LayerArchitecture.DataLayer\\LayerArchitecture.DataLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

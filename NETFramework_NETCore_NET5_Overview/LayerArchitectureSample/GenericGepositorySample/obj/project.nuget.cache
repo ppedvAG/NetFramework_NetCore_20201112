@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "REX0OtQ/6n0R6A45Xp0OX88oBLsUK+4AmU44GLYgSBjyq6Tr7FC3D5D3ZNf2DPImO2WC5Q6D8SVlfcRMF3ZyNg==",
+  "dgSpecHash": "AxSovX1MR0Ez5YIHmlexPJyugLAjmmvPmw39S0RUTBnvj3EWQMCzcQ9O1w2MW85uCYtBgKB/XwTe8t7pt9obIA==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\Abschlussarbeit\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\NetFramework_NetCore_20201112\\NETFramework_NETCore_NET5_Overview\\LayerArchitectureSample\\GenericGepositorySample\\GenericGepositorySample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

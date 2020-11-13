@@ -23,7 +23,7 @@ namespace ArchitectureLayer.PresentationLayer.Controllers
         }
 
         // GET: Car
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index() //LEse alle DAtensätze aus!
         {
             IList<Car> resultList = new List<Car>();
 
@@ -39,7 +39,7 @@ namespace ArchitectureLayer.PresentationLayer.Controllers
         }
 
         // GET: Car/Details/5
-        public async Task<IActionResult> Details(Guid? id)
+        public async Task<IActionResult> Details(Guid? id) //Lese nur ein Datensatz aus
         {
             if (id == null)
             {
